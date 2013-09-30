@@ -1,0 +1,3 @@
+#!/bin/bash
+AAA=$1
+awk "{print \$$AAA}"
