@@ -1,2 +1,2 @@
 #!/bin/sh
-curl -F 'sprunge=<-' http://sprunge.us
+exec curl -F 'sprunge=<-' http://sprunge.us
